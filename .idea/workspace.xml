@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="899c74fe-5142-4ae7-9d67-7a96721b6d98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h74HeaHwQLQCejaRfUtwOfmXhr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/app" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="899c74fe-5142-4ae7-9d67-7a96721b6d98" name="Default Changelist" comment="" />
+      <created>1599348709809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599348709809</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1599350812340">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1599350812340" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1599350812336">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1599350812336" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1599350812335">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1599350812335" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1599350812338">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1599350812338" />
+    <state x="100" y="123" width="1080" height="509" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599349003336">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="100" y="123" width="1080" height="509" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1280.709@0.23.1280.709" timestamp="1599349003336" />
+  </component>
+</project>

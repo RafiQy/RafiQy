@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "258805771184",
+    "firebase_url": "https://cbtproject-55d7a.firebaseio.com",
+    "project_id": "cbtproject-55d7a",
+    "storage_bucket": "cbtproject-55d7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258805771184:android:29625ad4a68454a0974475",
+        "android_client_info": {
+          "package_name": "a.b.c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258805771184-e3jhoubq40bmba3mrnj1jpi6bvcda9i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsWz0xya-j041rNn3qbuLI8J8_Sa-Dzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258805771184-e3jhoubq40bmba3mrnj1jpi6bvcda9i9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "258805771184-mi1outfou9afd8tn2ikp2g8rf9g89eq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cbtteam.cbtproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258805771184:android:8fb3082d433619c6974475",
+        "android_client_info": {
+          "package_name": "com.cbtteam.cbtproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258805771184-t3shoohit3354n4tsl5t2pd5059anvel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbtteam.cbtproject",
+            "certificate_hash": "a1e9320c3db2fa1dce20c6c93a6af958012a1d48"
+          }
+        },
+        {
+          "client_id": "258805771184-f6do37hlfvr03v3oqok84hfplqdq242d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbtteam.cbtproject",
+            "certificate_hash": "b9f5c9025cf52883d8a9634170901700284d0189"
+          }
+        },
+        {
+          "client_id": "258805771184-60uorqc7ne0vcb6k8u874vlvgvfjuirv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbtteam.cbtproject",
+            "certificate_hash": "973183aafe2c8a8ed1c6a89c116e1bee04191b08"
+          }
+        },
+        {
+          "client_id": "258805771184-oitp000r02hj155n245u960pq5b651fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbtteam.cbtproject",
+            "certificate_hash": "48829ba772d36ad0678777e05a785902ba701282"
+          }
+        },
+        {
+          "client_id": "258805771184-deil797rf830v3khrna2cnjjn39in1ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbtteam.cbtproject",
+            "certificate_hash": "78bb275f10448c9abd2685dfb86371b7d133af18"
+          }
+        },
+        {
+          "client_id": "258805771184-vasbjtptracv56qm1s83c6sdl3bqpp08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbtteam.cbtproject",
+            "certificate_hash": "bf2dab540107246645a3b590b9450c387a45fe30"
+          }
+        },
+        {
+          "client_id": "258805771184-e3jhoubq40bmba3mrnj1jpi6bvcda9i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsWz0xya-j041rNn3qbuLI8J8_Sa-Dzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258805771184-e3jhoubq40bmba3mrnj1jpi6bvcda9i9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "258805771184-mi1outfou9afd8tn2ikp2g8rf9g89eq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cbtteam.cbtproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258805771184:android:2bd26168729b5b72974475",
+        "android_client_info": {
+          "package_name": "com.example.cleanarchtdd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258805771184-e3jhoubq40bmba3mrnj1jpi6bvcda9i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsWz0xya-j041rNn3qbuLI8J8_Sa-Dzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258805771184-e3jhoubq40bmba3mrnj1jpi6bvcda9i9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "258805771184-mi1outfou9afd8tn2ikp2g8rf9g89eq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cbtteam.cbtproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258805771184:android:6e05356c2a02a6b7974475",
+        "android_client_info": {
+          "package_name": "com.rafiqy.rafiqy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258805771184-e3jhoubq40bmba3mrnj1jpi6bvcda9i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsWz0xya-j041rNn3qbuLI8J8_Sa-Dzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258805771184-e3jhoubq40bmba3mrnj1jpi6bvcda9i9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "258805771184-mi1outfou9afd8tn2ikp2g8rf9g89eq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cbtteam.cbtproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
