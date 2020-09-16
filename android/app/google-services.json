@@ -171,6 +171,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "258805771184-nn9pijabcausal6r2q2etaa00aq5fl1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafiqy.rafiqy",
+            "certificate_hash": "c1d5d78c6b539b29fac3e3a4f6ba3d9913da4f00"
+          }
+        },
+        {
           "client_id": "258805771184-e3jhoubq40bmba3mrnj1jpi6bvcda9i9.apps.googleusercontent.com",
           "client_type": 3
         }

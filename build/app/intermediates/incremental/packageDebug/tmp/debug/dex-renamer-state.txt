@@ -1,4 +1,10 @@
-#Sun Sep 06 01:47:38 EET 2020
-base.0=/Volumes/W/RafiqyStartup/RafiQy/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Tue Sep 15 19:18:55 EET 2020
+path.2=classes3.dex
+path.1=classes2.dex
 path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
+base.2=G\:\\RafiQy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes3.dex
+base.1=G\:\\RafiQy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
+base.0=G\:\\RafiQy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
